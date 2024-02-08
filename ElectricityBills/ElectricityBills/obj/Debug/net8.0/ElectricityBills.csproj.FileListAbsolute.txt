@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\bin\Debug\net8.0\ElectricityBills.exe
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\bin\Debug\net8.0\ElectricityBills.deps.json
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\bin\Debug\net8.0\ElectricityBills.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\bin\Debug\net8.0\ElectricityBills.dll
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\bin\Debug\net8.0\ElectricityBills.pdb
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\obj\Debug\net8.0\ElectricityBills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\obj\Debug\net8.0\ElectricityBills.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\obj\Debug\net8.0\ElectricityBills.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\obj\Debug\net8.0\ElectricityBills.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\obj\Debug\net8.0\ElectricityBills.sourcelink.json
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\obj\Debug\net8.0\ElectricityBills.dll
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\obj\Debug\net8.0\refint\ElectricityBills.dll
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\obj\Debug\net8.0\ElectricityBills.pdb
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\obj\Debug\net8.0\ElectricityBills.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\AbstractClass\ElectricityBills\ElectricityBills\obj\Debug\net8.0\ref\ElectricityBills.dll

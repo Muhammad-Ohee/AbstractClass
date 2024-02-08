@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\bin\Debug\net8.0\CalculateTheArea.exe
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\bin\Debug\net8.0\CalculateTheArea.deps.json
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\bin\Debug\net8.0\CalculateTheArea.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\bin\Debug\net8.0\CalculateTheArea.dll
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\bin\Debug\net8.0\CalculateTheArea.pdb
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\obj\Debug\net8.0\CalculateTheArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\obj\Debug\net8.0\CalculateTheArea.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\obj\Debug\net8.0\CalculateTheArea.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\obj\Debug\net8.0\CalculateTheArea.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\obj\Debug\net8.0\CalculateTheArea.sourcelink.json
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\obj\Debug\net8.0\CalculateTheArea.dll
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\obj\Debug\net8.0\refint\CalculateTheArea.dll
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\obj\Debug\net8.0\CalculateTheArea.pdb
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\obj\Debug\net8.0\CalculateTheArea.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\AbstractClass\CalculateTheArea\CalculateTheArea\obj\Debug\net8.0\ref\CalculateTheArea.dll
